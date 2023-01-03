@@ -1,0 +1,6 @@
+body {
+    background: radial-gradient(circle,lightblue,lightseagreen);
+}
+.fancy-title {
+    font-family: 'Indie Flower', cursive;
+}
